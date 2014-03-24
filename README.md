@@ -9,5 +9,5 @@ Benefits
 
 Text with **bold** and _italics_.
 
-# Itemized lists
-# Number two
+1. An item
+2. Another item
