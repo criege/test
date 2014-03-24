@@ -13,4 +13,4 @@ Text with **bold** and _italics_.
 2. Another item
 3. A completely different topic
 
-An image: !(/scope-cargo-inc.png)
+An image: ![alternative text](/scope-cargo-inc.png)
